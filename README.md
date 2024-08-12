@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="170" src="https://avatars.githubusercontent.com/u/114912782?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
