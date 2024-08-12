@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">• Frenchie coder interested in new technologies and languages<br><br>• I'm interested by robotics and want to create my own robot in the future<br><br>• Magic: The gathering enjoyer, musician and tennisman whenever time allows it</h6>
+<h6 align="center">• Frenchie coder interested in new technologies and languages<br><br>• I'm interested in robotics and want to create my own robot in the future<br><br>• Magic: The gathering enjoyer, musician and tennisman whenever time allows it</h6>
 
 ###
 
