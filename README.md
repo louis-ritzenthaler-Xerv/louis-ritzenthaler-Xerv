@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">• Frenchie coder interested in new technologies and languages<br><br>• I'm interested in robotics and want to create my own robot in the future<br><br>• Magic: The gathering enjoyer, musician and tennisman whenever time allows it</h6>
+<h6 align="center">• Frenchie coder interested in new technologies and languages<br><br>• I'm interested by robotics and want to create my own robot in the future<br><br>• Magic: The gathering enjoyer, musician and tennisman whenever time allows it</h6>
 
 ###
 
@@ -61,5 +61,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=louis-ritzenthaler-Xerv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-ritzenthaler-Xerv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/louis-ritzenthaler-Xerv/louis-ritzenthaler-Xerv/output/snake.svg" alt="Snake animation" />
 
 ###
