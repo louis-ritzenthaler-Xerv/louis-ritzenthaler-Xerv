@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Currently working on 🍃 NexaWeb, a Green and local first website creation tool for everyone to use (link here soon)<br><br>My resume [here](https://drive.google.com/file/d/1y1jBuAWqjLjI9HlG0_RvXEsnnBTFM_qu/view?usp=sharing)</p>
+<p align="left">- Currently working on 🍃 NexaWeb, a Green and local first website creation tool for everyone to use (link here soon)<br><br>- My resume at : https://drive.google.com/file/d/1y1jBuAWqjLjI9HlG0_RvXEsnnBTFM_qu/view?usp=sharing<br><br>- Native French speaker, fluent in english, some basics in german, learning italian</p>
 
 ###
 
