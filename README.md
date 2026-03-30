@@ -20,10 +20,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/1f3Fj78D/114912782.png"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -178,11 +174,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/louis-ritzenthaler-Xerv/louis-ritzenthaler-Xerv/output/snake.svg" alt="Snake animation" />
 
 ###
